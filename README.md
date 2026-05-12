@@ -18,4 +18,4 @@ Aplikasi Machine Learning untuk memprediksi keselamatan penumpang Titanic berdas
 - Joblib - Load model yang sudah dilatih
 
 ## Akses Aplikasi
-[Link ke Streamlit App Anda]
+[https://titanic-survivor-prediction.streamlit.app/]
